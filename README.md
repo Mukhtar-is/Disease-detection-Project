@@ -1,1 +1,1 @@
-# Disease-detection-Project
+# Disease-Diagnostic-Hackathon-Project
